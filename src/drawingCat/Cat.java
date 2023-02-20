@@ -27,9 +27,13 @@ public class Cat {
 	private static final int WHISKER_SLANT = 5;
 	private static final int NUM_WHISKERS = 3;
 	
+<<<<<<< HEAD
 	// ears are about 1/5 the size of the head
 		private static final int EAR_SIZE = HEAD_DIMENSION/5;
 		
+=======
+	
+>>>>>>> addmouse
 	// draw will render the Cat on the Graphics object
 	public void draw(Graphics g, int catX, int catY) {
 		Graphics2D g2 = (Graphics2D) g;
